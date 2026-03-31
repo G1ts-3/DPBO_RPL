@@ -16,6 +16,7 @@ public class Book {
     private String[] reservationQueue;
     private int queueCount;
 
+    //Konstruktor
     public Book(String title, String author, String isbn) {
         this.title = title;
         this.author = author;
