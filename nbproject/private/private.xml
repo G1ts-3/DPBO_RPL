@@ -3,15 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/Latihan/Vahicle.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/Responsi_01/Hewan.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/Responsi_01/Kucing.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/week7/MainAccount.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/TUBES_WG58/Config.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/TUBES_WG58/WarungApp.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/TUBES_WG58/Tenant.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/TUBES_WG58/FoodTenant.java</file>
-            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/TUBES_WG58/MenuItem.java</file>
+            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/week10/Washer.java</file>
+            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/week10/Car.java</file>
+            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/week10/Taxi.java</file>
+            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/week10/Truck.java</file>
+            <file>file:/C:/Users/hi/OneDrive/Documents/NetBeansProjects/DPBO_RPL/src/week10/CarTest.java</file>
         </group>
     </open-files>
 </project-private>
